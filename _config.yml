@@ -1,0 +1,28 @@
+name: darkride2
+favicon: null
+layout_spectrum: 0.7312341083306819
+typography_spectrum: 0.26111851423047483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9856054156553
+  lightness: 0.36236413731239736
+  saturation: 0.4500181176699698
+  rhythmicContrast: 0.8197906990535557
+purpose: []
